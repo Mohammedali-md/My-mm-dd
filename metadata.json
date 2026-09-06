@@ -1,0 +1,6 @@
+{
+  "name": "Surprise - G",
+  "description": "متجر إلكتروني متكامل للهدايا الفاخرة، العطور، الإكسسوارات، باقات الورد وتغليف الهدايا مع لوحة تحكم إدارية ودعم PWA",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
